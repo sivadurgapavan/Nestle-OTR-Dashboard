@@ -1,0 +1,14 @@
+{
+  "name": "Nestle OTR Dashboard",
+  "dataColors": ["#1F5D8F", "#2E8B57", "#F5C242", "#D95D39", "#7B61A8", "#4C78A8"],
+  "background": "#F5F7FB",
+  "foreground": "#17212B",
+  "tableAccent": "#1F5D8F",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [{ "fontFamily": "Arial", "fontSize": 12, "color": { "solid": { "color": "#17212B" } } }]
+      }
+    }
+  }
+}
